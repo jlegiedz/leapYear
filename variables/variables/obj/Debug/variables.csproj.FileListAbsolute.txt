@@ -1,0 +1,2 @@
+c:\users\asia\documents\visual studio 2015\Projects\variables\variables\bin\Debug\variables.exe.config
+c:\users\asia\documents\visual studio 2015\Projects\variables\variables\obj\Debug\variables.csprojResolveAssemblyReference.cache

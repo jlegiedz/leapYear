@@ -1,0 +1,6 @@
+c:\users\asia\documents\visual studio 2015\Projects\ifStat\ifStat\bin\Debug\ifStat.exe.config
+c:\users\asia\documents\visual studio 2015\Projects\ifStat\ifStat\obj\Debug\ifStat.csprojResolveAssemblyReference.cache
+c:\users\asia\documents\visual studio 2015\Projects\ifStat\ifStat\bin\Debug\ifStat.exe
+c:\users\asia\documents\visual studio 2015\Projects\ifStat\ifStat\bin\Debug\ifStat.pdb
+c:\users\asia\documents\visual studio 2015\Projects\ifStat\ifStat\obj\Debug\ifStat.exe
+c:\users\asia\documents\visual studio 2015\Projects\ifStat\ifStat\obj\Debug\ifStat.pdb

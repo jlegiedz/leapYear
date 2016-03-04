@@ -1,0 +1,5 @@
+c:\users\asia\documents\visual studio 2015\Projects\variables\variables\bin\Release\variables.exe.config
+c:\users\asia\documents\visual studio 2015\Projects\variables\variables\bin\Release\variables.exe
+c:\users\asia\documents\visual studio 2015\Projects\variables\variables\bin\Release\variables.pdb
+c:\users\asia\documents\visual studio 2015\Projects\variables\variables\obj\Release\variables.exe
+c:\users\asia\documents\visual studio 2015\Projects\variables\variables\obj\Release\variables.pdb

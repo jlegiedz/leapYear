@@ -1,0 +1,6 @@
+c:\users\asia\documents\visual studio 2015\Projects\rafek\rafek\bin\Debug\rafek.exe.config
+c:\users\asia\documents\visual studio 2015\Projects\rafek\rafek\obj\Debug\rafek.csprojResolveAssemblyReference.cache
+c:\users\asia\documents\visual studio 2015\Projects\rafek\rafek\bin\Debug\rafek.exe
+c:\users\asia\documents\visual studio 2015\Projects\rafek\rafek\bin\Debug\rafek.pdb
+c:\users\asia\documents\visual studio 2015\Projects\rafek\rafek\obj\Debug\rafek.exe
+c:\users\asia\documents\visual studio 2015\Projects\rafek\rafek\obj\Debug\rafek.pdb

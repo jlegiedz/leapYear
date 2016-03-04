@@ -1,0 +1,6 @@
+c:\users\asia\documents\visual studio 2015\Projects\m_table\m_table\bin\Debug\m_table.exe.config
+c:\users\asia\documents\visual studio 2015\Projects\m_table\m_table\bin\Debug\m_table.exe
+c:\users\asia\documents\visual studio 2015\Projects\m_table\m_table\bin\Debug\m_table.pdb
+c:\users\asia\documents\visual studio 2015\Projects\m_table\m_table\obj\Debug\m_table.csprojResolveAssemblyReference.cache
+c:\users\asia\documents\visual studio 2015\Projects\m_table\m_table\obj\Debug\m_table.exe
+c:\users\asia\documents\visual studio 2015\Projects\m_table\m_table\obj\Debug\m_table.pdb

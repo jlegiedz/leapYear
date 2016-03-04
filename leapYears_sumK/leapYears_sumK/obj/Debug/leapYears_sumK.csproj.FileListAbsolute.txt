@@ -1,0 +1,6 @@
+c:\users\asia\documents\visual studio 2015\Projects\leapYears_sumK\leapYears_sumK\bin\Debug\leapYears_sumK.exe.config
+c:\users\asia\documents\visual studio 2015\Projects\leapYears_sumK\leapYears_sumK\bin\Debug\leapYears_sumK.exe
+c:\users\asia\documents\visual studio 2015\Projects\leapYears_sumK\leapYears_sumK\bin\Debug\leapYears_sumK.pdb
+c:\users\asia\documents\visual studio 2015\Projects\leapYears_sumK\leapYears_sumK\obj\Debug\leapYears_sumK.csprojResolveAssemblyReference.cache
+c:\users\asia\documents\visual studio 2015\Projects\leapYears_sumK\leapYears_sumK\obj\Debug\leapYears_sumK.exe
+c:\users\asia\documents\visual studio 2015\Projects\leapYears_sumK\leapYears_sumK\obj\Debug\leapYears_sumK.pdb
